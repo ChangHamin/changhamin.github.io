@@ -115,8 +115,8 @@ author:
   name             : "Hamin Chang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "(Double) Ph.D candidate at Seoul National University & University of Groningen"
-  location         : ""
-  email            : "hmchang@cdsl.kr"
+  location         : #
+  email            : #
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
