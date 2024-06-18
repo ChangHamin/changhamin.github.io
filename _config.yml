@@ -114,8 +114,8 @@ analytics:
 author:
   name             : "Hamin Chang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D"
-  location         : "Seoul"
+  bio              : "(Double) Ph.D candidate at Seoul National University & University of Groningen"
+  location         : ""
   email            : "hmchang@cdsl.kr"
   links:
     - label: "Email"
